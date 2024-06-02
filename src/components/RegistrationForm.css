@@ -1,0 +1,30 @@
+.logo-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.logo {
+  max-width: 200px;
+  height: auto;
+}
+
+.crew-member, .kid-member {
+  margin-bottom: 20px;
+}
+
+ion-item {
+  --padding-start: 16px;
+}
+
+ion-button {
+  margin-top: 20px;
+}
+
+ion-grid {
+  --ion-grid-padding: 16px;
+}
+
+ion-row {
+  --ion-grid-column-padding: 8px;
+}
